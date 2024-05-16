@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": "2",
+      "title": "Family",
+      "datetime": "Mar 10, 2024 13:06:08 PM",
+      "body": "Happpy Life"
+    },
+    {
+      "id": "5",
+      "title": "Yuga Nandhan",
+      "datetime": "Mar 10, 2024 14:44:56 PM",
+      "body": "Appu Luv"
+    },
+    {
+      "id": "6",
+      "title": "Diya Papa",
+      "datetime": "May 16, 2024 14:44:58 PM",
+      "body": "Papa Love"
+    }
+  ]
+}
