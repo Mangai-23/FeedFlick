@@ -9,5 +9,4 @@ const Missing = () => {
     </main>
   )
 }
-
 export default Missing
